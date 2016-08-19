@@ -1,4 +1,4 @@
-# Teste para Desenvolvedores Android do Zap Imóveis
+# Teste para Desenvolvedor(a) Android do Zap Imóveis
 
 Seja bem vindo! Agradecemos o seu interesse em participar do nosso processo seletivo.
 
