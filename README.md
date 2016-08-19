@@ -5,9 +5,10 @@ Seja bem vindo! Agradecemos o seu interesse em participar do nosso processo sele
 Por favor atente-se as instruções abaixo e entre em contato conosco ao menor sinal de dúvidas.
 
 ## Objetivo
-* Criar uma aplicativo que acesse uma REST API e mostre uma listagem de itens;
+
+* Criar uma aplicativo que consulte uma REST API e mostre uma listagem de itens;
 * Cada item da lista deve permitir acesso ao detalhe do item;
-* No detalhe do item deve haver um opção para que o usuário envie uma mensagem. 
+* No detalhe do item deve haver uma opção para que o usuário envie uma mensagem. 
 
 ## Layout
 
@@ -21,7 +22,8 @@ Análisaremos:
 
 * Organização do código;
 * Boas práticas de programação;
-* Possíveis bugs.
+* Possíveis bugs;
+* Tratamento de erros.
 
 ## API
 
@@ -33,15 +35,16 @@ Para enviar uma mensagem faça um POST no seguinte endereço: http://demo4573903
 
 O POST deve conter os dados do interessado (Nome, e-mail e telefone) e o código do anúncio. O corpo pode enviado por _form_ ou _json_. 
 
-## Dicas e pontos extras (não obrigatórios)
+## Item extras (não obrigatórios)
+
+* Tente implementar ordenação na listagem (Ex: por preço, vagas, suites etc...);
+* Implemente testes unitários e de aceitação (interface).
+
+## Dicas
 
 * Caso não saiba por onde começar em termos de layout, instale o aplicativo do [Zap Imóveis](https://play.google.com/store/apps/details?id=br.com.zap.imoveis) e tente fazer algo parecido com o que temos hoje;
 * Fique a vontade para utilizar animações e recursos especias (ex: parallax etc...);
-* Caso utilize bibliotecas externas, prefira as mais respeitadas da comunidade (Volley, Retrofit, Glide, Picasso etc...);
-* Implemente validação nos campos do formulário de contato;
-* Tente implementar ordenação na listagem (Ex: por preço, vagas, suites etc...);
-* Implemente testes unitários e de interface.
-
-**Importante**: Teste muito bem seu aplicativo, em caso de crash o canditado é automaticamente reprovado.
-
+* Não se esqueça de validar os campos do formulário de contato;
+* Teste bem seu aplicativo, evite crashes.
+ 
 ### Bom teste!
