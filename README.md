@@ -35,7 +35,7 @@ Para enviar uma mensagem faça um POST no seguinte endereço: http://demo4573903
 
 O POST deve conter os dados do interessado (Nome, e-mail e telefone) e o código do anúncio. O corpo pode enviado por _form_ ou _json_. 
 
-## Item extras (não obrigatórios)
+## Itens extras (não obrigatórios)
 
 * Tente implementar ordenação na listagem (Ex: por preço, vagas, suites etc...);
 * Implemente testes unitários e de aceitação (interface).
