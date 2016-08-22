@@ -18,7 +18,7 @@ Dê atenção especial às recomendações do [Material Design](https://develope
 
 ## Sobre seu código
 
-Análisaremos:
+Analisaremos:
 
 * Organização do código;
 * Boas práticas de programação;
