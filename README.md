@@ -44,7 +44,12 @@ O POST deve conter os dados do interessado (Nome, e-mail e telefone) e o código
 
 * Caso não saiba por onde começar em termos de layout, instale o aplicativo do [Zap Imóveis](https://play.google.com/store/apps/details?id=br.com.zap.imoveis) e tente fazer algo parecido com o que temos hoje;
 * Fique a vontade para utilizar animações e recursos especias (ex: parallax etc...);
-* Não se esqueça de validar os campos do formulário de contato;
+* Não se esqueça de validar os campos do formulário de contato (todos os campos são obrigatórios);
 * Teste bem seu aplicativo, evite crashes.
  
+## Observações importantes
+
+* Não inicie o teste sem sanar todas as dúvidas;
+* A API pode ter falhas, prepare seu aplicativo para contorná-las.
+
 ### Bom teste!
